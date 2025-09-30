@@ -1,7 +1,8 @@
-## Hi there 👋
+## About Me
 
+Engineering Science Student at the University of Toronto, Canada. Pursuing a Major in Machine Intelligence Engineering, Minor in Robotics & Mechatronics. 
+Passionate about the integration between AI and Robotics, particularly in the space industry.
 <!--
-**icalleddibs/icalleddibs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,4 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Diba's GitHub stats](https://github-readme-stats.vercel.app/api?username=icalleddibs)](https://github.com/anuraghazra/github-readme-stats)
+## Statistics & Tools
+![Top Languages-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=icalleddibs&layout=compact&show_icons=true&theme=react#gh-dark-mode-only&border_radius=50)
