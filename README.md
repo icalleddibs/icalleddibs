@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Statistics & Tools
+<!--## Statistics & Tools
 ![Top Languages-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=icalleddibs&layout=compact&show_icons=true&theme=react#gh-dark-mode-only&border_radius=50)
+-->
